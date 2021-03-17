@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    addresses: localhost
+    username: wszshwyw520
+    password: wszshwyw#0052
+    port: 5672
